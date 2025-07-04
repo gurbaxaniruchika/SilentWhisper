@@ -53,6 +53,7 @@ https://github.com/lisawray/groupie
 - [@Yash-2907](https://www.github.com/Yash-2907)
 - [@shrey3146](https://www.github.com/shrey3146)
 - [@Anushree2023](https://www.github.com/Anushree2023)
+- [@gurbaxaniruchika](https://github.com/gurbaxaniruchika)
 
 
 
